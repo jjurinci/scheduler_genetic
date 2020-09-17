@@ -61,3 +61,13 @@ Slučajnim odabirom se odabire 1 problematičan rasp iz liste problematičnih ra
 Svaki rasp u rasporedu privremeno mijenja svoj termin sa terminom problematičnog rasp-a te nakon
 svake izmjene se raspored šalje funckiji grade koja vraća ocjenu. Ukoliko se ocjena poboljšala,
 izmjena termina 2 rasp-a se trajno sprema u raspored.
+
+
+[Live deployment](https://schedulerui.vercel.app)
+
+[Frontend (github)](https://github.com/jjurinci/schedulerui)
+
+[Servis za DML (github)](https://github.com/jjurinci/scheduler_dml)
+
+[Dokumentacija (pdf)](https://drive.google.com/file/d/1dwbhwdL9lQtF__XRucfL_uJ79NFUQR0W/view?usp=sharing)
+
