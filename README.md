@@ -63,7 +63,7 @@ svake izmjene se raspored šalje funckiji grade koja vraća ocjenu. Ukoliko se o
 izmjena termina 2 rasp-a se trajno sprema u raspored.
 
 
-[Frontend (github)](https://github.com/jjurinci/schedulerui)
+[Frontend (github)](https://github.com/jjurinci/scheduler_ui)
 
 [Servis za DML (github)](https://github.com/jjurinci/scheduler_dml)
 
