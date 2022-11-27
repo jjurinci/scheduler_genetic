@@ -63,11 +63,9 @@ svake izmjene se raspored šalje funckiji grade koja vraća ocjenu. Ukoliko se o
 izmjena termina 2 rasp-a se trajno sprema u raspored.
 
 
-[Live deployment](https://schedulerui.vercel.app)
-
 [Frontend (github)](https://github.com/jjurinci/schedulerui)
 
 [Servis za DML (github)](https://github.com/jjurinci/scheduler_dml)
 
-[Dokumentacija (pdf)](https://drive.google.com/file/d/1dwbhwdL9lQtF__XRucfL_uJ79NFUQR0W/view?usp=sharing)
+[Dokumentacija (pdf)](https://zir.nsk.hr/islandora/object/unipu%3A5086/datastream/PDF/view)
 
